@@ -1,15 +1,9 @@
 ﻿using System;
+using domain;
 namespace Domain
 {
     public class User
     {
-        public User() { }
-
-        public int id;
-        public int number;
-        public string fullname;
-        public Role role;
-
 
         public int ID { get; set; }
 

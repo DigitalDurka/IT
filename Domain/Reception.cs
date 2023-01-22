@@ -3,12 +3,6 @@ namespace Domain
 {
     public class Reception
     {
-        public Reception() { }
-        public DateTime startrecept;
-        public DateTime endrecept;
-        public Schedule schedule;
-        public int idpatient;
-        public int iddoctor;
 
         public DateTime StartRecept { get; set; }
 

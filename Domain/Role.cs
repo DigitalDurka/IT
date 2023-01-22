@@ -1,11 +1,10 @@
 ﻿using System;
-namespace Domain
-{
-    public class Role
-    {
-        public Role() { }
-        public int id;
 
-        public int ID { get; set; }
+namespace domain
+{
+    public enum Role
+    {
+        Patient,
+        Administrator
     }
 }
