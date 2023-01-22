@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IT_Project
 build_property.RootNamespace = IT_Project
-build_property.ProjectDir = D:\DVFU\2 курс\IT_Project\IT_Project\IT_Project\
+build_property.ProjectDir = D:\DVFU\course2\IT_Project\IT_Project\IT_Project\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\DVFU\2 курс\IT_Project\IT_Project\IT_Project
+build_property.MSBuildProjectDirectory = D:\DVFU\course2\IT_Project\IT_Project\IT_Project
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/DVFU/2 курс/IT_Project/IT_Project/IT_Project/Pages/Error.cshtml]
+[D:/DVFU/course2/IT_Project/IT_Project/IT_Project/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DVFU/2 курс/IT_Project/IT_Project/IT_Project/Pages/Index.cshtml]
+[D:/DVFU/course2/IT_Project/IT_Project/IT_Project/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DVFU/2 курс/IT_Project/IT_Project/IT_Project/Pages/Privacy.cshtml]
+[D:/DVFU/course2/IT_Project/IT_Project/IT_Project/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DVFU/2 курс/IT_Project/IT_Project/IT_Project/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/DVFU/course2/IT_Project/IT_Project/IT_Project/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DVFU/2 курс/IT_Project/IT_Project/IT_Project/Pages/_ViewImports.cshtml]
+[D:/DVFU/course2/IT_Project/IT_Project/IT_Project/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DVFU/2 курс/IT_Project/IT_Project/IT_Project/Pages/_ViewStart.cshtml]
+[D:/DVFU/course2/IT_Project/IT_Project/IT_Project/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DVFU/2 курс/IT_Project/IT_Project/IT_Project/Pages/Shared/_Layout.cshtml]
+[D:/DVFU/course2/IT_Project/IT_Project/IT_Project/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ks512ae8wd
